@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\go\bin\go.exe" build -ldflags="-s -w" -o ./compile/dist/abob.exe -env GOOS=windows -env GOARCH=386 -env CGO_ENABLED=0
+
+go run main.go

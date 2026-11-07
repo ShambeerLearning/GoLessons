@@ -1,0 +1,3 @@
+Go tool arguments:  -ldflags="-s -w"
+
+Environment:  GOOS=windows;GOARCH=386;CGO_ENABLED=0
